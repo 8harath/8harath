@@ -1,7 +1,7 @@
-<h1 align="center">Bharath</h1>
+<h1 align="center">Hey, I'm Bharath</h1>
 
 <p align="center">
-  <strong>CS Undergrad · Systems Thinker · Exploring Intelligence & Code</strong>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=CS+Undergrad+%7C+Systems+Thinker;LLMs+%26+AGI+Explorer;Philosophy+%7C+Crypto+%7C+Code;Reading+%26+Reframing+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,34 +13,29 @@
 
 ### 🧠 About Me
 
-Curious and self-taught learner interested in how intelligence can be built, scaled, and understood through computation.
+I’m a deeply curious learner fascinated by intelligence — both natural and artificial.  
+My focus lies in:
 
-I explore:
 - Large Language Models (LLMs) & AGI  
-- Generative AI & Diffusion models  
-- Cryptocurrency & Decentralized Systems  
-- Philosophy of mind, systems, and reality  
-- Reading deep, interdisciplinary ideas
+- Generative AI & cognitive architectures  
+- Cryptocurrency & decentralized logic  
+- Philosophy, abstraction, and systems thinking  
+- Reading ideas that bend perception
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠️ What I’m Building
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)  
-![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure)
+- **Avalon** — Smart academic toolkit for students  
+- **Vision-based Parking Detection** — Real-time slot monitoring  
+- **Dark Web Threat Monitor** — AI-powered data breach alerts  
 
 ---
 
-### 🧪 Projects I’m Building
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=8harath&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
 
-- **Avalon** – Timetable & resource hub for students  
-- **Parking Detection AI** – Real-time slot counter with vision models  
-- **Dark Web Threat Monitor** – Early-alert system for leaked data  
-
----
-
-> “I reverse-engineer what fascinates me. Intelligence just happens to be the most fascinating thing.”
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+</p>
