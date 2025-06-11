@@ -1,41 +1,40 @@
-<h1 align="center">Hey, I'm Bharath</h1>
+<h1 align="center">bharath</h1>
+
+<p align="center"><i>rewiring code, decoding thought</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=CS+Undergrad+%7C+Systems+Thinker;LLMs+%26+AGI+Explorer;Philosophy+%7C+Crypto+%7C+Code;Reading+%26+Reframing+Reality" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://8harath.me">8harath.me</a> ·  
-  <a href="https://github.com/8harath">GitHub</a>
+  <a href="https://8harath.me" target="_blank">8harath.me</a> ·  
+  <a href="https://github.com/8harath" target="_blank">GitHub</a>
 </p>
 
 ---
 
-### 🧠 About Me
+### ✦ who i am
 
-I’m a deeply curious learner fascinated by intelligence — both natural and artificial.  
-My focus lies in:
-
-- Large Language Models (LLMs) & AGI  
-- Generative AI & cognitive architectures  
-- Cryptocurrency & decentralized logic  
-- Philosophy, abstraction, and systems thinking  
-- Reading ideas that bend perception
+a computer science undergrad  
+drawn to intelligence — natural, artificial, emergent  
+i read, I build, I question defaults
 
 ---
 
-### 🛠️ What I’m Building
+### ✦ what excites me
 
-- **Avalon** — Smart academic toolkit for students  
-- **Vision-based Parking Detection** — Real-time slot monitoring  
-- **Dark Web Threat Monitor** — AI-powered data breach alerts  
+- llms, generative models, and AGI blueprints  
+- philosophy of mind, cognition, and systems  
+- decentralization, cryptographic trust, protocol design  
+- building interfaces for clarity and flow  
+- reading things that break assumptions
+
+---
+
+### ✦ what i’m building
+
+- **avalon** — a calm interface for academic chaos  
+- **parking vision** — lightweight spatial awareness from a static camera  
+- **dark web monitor** — passive AI that listens for digital danger
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=8harath&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&center=true&vCenter=true&width=450&lines=reversing+intelligence+%E2%80%A2+one+idea+at+a+time;learning+as+a+form+of+play;building+as+thinking+made+visible" alt="typing animation" />
 </p>
