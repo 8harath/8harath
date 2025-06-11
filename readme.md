@@ -1,4 +1,4 @@
-<h1 align="center">bharath</h1>
+<h1 align="center">Bharath</h1>
 
 <p align="center"><i>rewiring code, decoding thought</i></p>
 
