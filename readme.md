@@ -1,85 +1,92 @@
 <div align="center">
 
 ```
-    ██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ████████╗██╗  ██╗
-    ██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
-    ██████╔╝███████║███████║██████╔╝███████║   ██║   ███████║
-    ██╔══██╗██╔══██║██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║
-    ██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║
-    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+    ╭─────────────────────────────────────────────────────────╮
+    │  ∞ → ∅ → ∞  recursive thought loops in digital space  │
+    ╰─────────────────────────────────────────────────────────╯
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=3000&center=true&vCenter=true&width=600&lines=rewiring+code%2C+decoding+thought;questioning+the+architecture+of+intelligence;building+tomorrow's+interfaces+today" alt="philosophy" />
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=13&pause=2500&center=true&vCenter=true&width=700&lines=parsing+reality+through+probabilistic+lenses;where+mathematics+meets+consciousness;building+bridges+between+minds+and+machines" alt="stream of consciousness" />
 
-[**8harath.me**](https://8harath.me) • [**github**](https://github.com/8harath)
+```ascii
+    ┌─ intelligence ─┐    ┌─ emergence ─┐    ┌─ simplicity ─┐
+    │ not artificial │────│ from chaos  │────│ hiding      │
+    │ just different │    │ comes order │    │ complexity  │
+    └────────────────┘    └─────────────┘    └─────────────┘
+```
 
 </div>
 
 ---
 
-<br>
+### `> whoami --recursive`
 
-<div align="center">
-
-### `./whoami`
-
-</div>
-
-```yaml
-identity:
-  role: computer science undergrad
-  interests: [intelligence, systems, emergence]
-  approach: read → build → question → repeat
-
-philosophy:
-  - "intelligence is the universe understanding itself"
-  - "code is crystallized thought"
-  - "interfaces should feel like extensions of mind"
+```json
+{
+  "entity": "consciousness debugging itself",
+  "operating_system": "curiosity-driven",
+  "primary_function": "pattern recognition in chaos",
+  "stack": [
+    "questions.first()",
+    "code.as_poetry()",
+    "interfaces.that_feel_natural()",
+    "systems.that_think_ahead()"
+  ],
+  "current_state": "compiling intuition"
+}
 ```
 
 ---
 
-<div align="center">
+### `> ls -la ./mind/`
 
-### `./current_fascinations`
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-**🧠 intelligence**
+**🔮 emergence**
 ```
-llms
-generative models
-AGI blueprints
-philosophy of mind
-cognitive architectures
+complex systems
+cellular automata  
+swarm intelligence
+chaos → patterns
+self-organization
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-**🔗 systems**
+**🧩 cognition**
 ```
-decentralization
-cryptographic trust
-protocol design
+neural architectures
+attention mechanisms
+memory systems
+reasoning chains
+thought compression
+```
+
+</td>
+<td width="25%" align="center">
+
+**⚡ interfaces**
+```
+invisible design
+cognitive load
+flow optimization
+intuitive interaction
+zero-friction tools
+```
+
+</td>
+<td width="25%" align="center">
+
+**🌊 systems**
+```
+distributed trust
+protocol evolution
+network dynamics
 emergent behavior
-network effects
-```
-
-</td>
-<td width="33%" align="center">
-
-**🎨 interfaces**
-```
-clarity over complexity
-flow states
-minimal friction
-thoughtful interaction
-human-centered design
+collective intelligence
 ```
 
 </td>
@@ -88,81 +95,80 @@ human-centered design
 
 ---
 
-<div align="center">
+### `> ps aux | grep "active"`
 
-### `./active_projects`
-
-</div>
-
-<br>
-
-> **avalon**  
-> *a calm interface for academic chaos*  
-> `status: architecting the calm`
-
-> **parking vision**  
-> *lightweight spatial awareness from a static camera*  
-> `status: teaching cameras to see`
-
-> **dark web monitor**  
-> *passive AI that listens for digital danger*  
-> `status: building digital intuition`
-
-<br>
+```bash
+∞  thought_loops     25.3  understanding consciousness architectures
+∞  code_as_art       18.7  crafting interfaces that breathe
+∞  pattern_hunter    22.1  finding signal in academic noise  
+∞  digital_intuition 19.2  teaching machines to feel context
+∞  clarity_engine    14.7  distilling complexity into essence
+```
 
 ---
 
 <div align="center">
 
-### `./mental_state`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=4000&center=true&vCenter=true&width=500&lines=currently%3A+thinking+about+emergence;reading%3A+papers+on+consciousness;building%3A+interfaces+for+clarity;wondering%3A+what+intelligence+really+is" alt="current state" />
-
-</div>
-
----
-
-<div align="center">
-
-### `./thought_network`
+### `> ./consciousness.map()`
 
 ```mermaid
-flowchart TD
-    A[curiosity] --> B[questions]
-    B --> C[research]
-    C --> D[understanding]
-    D --> E[building]
-    E --> F[more questions]
-    F --> A
+graph LR
+    A[observe] -->|patterns| B[abstract]
+    B -->|models| C[simulate]
+    C -->|test| D[build]
+    D -->|feedback| E[learn]
+    E -->|iterate| A
     
-    G[reading] --> H[thinking]
-    H --> I[writing code]
-    I --> J[interfaces]
-    J --> K[clarity]
-    K --> G
+    F[read] -->|process| G[synthesize]
+    G -->|create| H[interface]
+    H -->|use| I[refine]
+    I -->|insight| F
     
-    style A fill:#4f46e5,stroke:none,color:#ffffff
-    style F fill:#4f46e5,stroke:none,color:#ffffff
-    style K fill:#10b981,stroke:none,color:#ffffff
-    style G fill:#10b981,stroke:none,color:#ffffff
+    J[question] -->|research| K[understand]
+    K -->|implement| L[validate]
+    L -->|doubt| J
+    
+    style A fill:#667eea,stroke:none,color:#ffffff
+    style E fill:#667eea,stroke:none,color:#ffffff
+    style I fill:#f093fb,stroke:none,color:#ffffff  
+    style F fill:#f093fb,stroke:none,color:#ffffff
+    style J fill:#4facfe,stroke:none,color:#ffffff
+    style L fill:#4facfe,stroke:none,color:#ffffff
 ```
 
 </div>
 
 ---
 
+### `> tail -f ./stream_of_consciousness.log`
+
+```log
+[23:47] wondering: do neural networks dream of electric sheep?
+[23:52] building: tools that amplify human intuition
+[00:15] reading: papers on emergence and self-organization
+[00:31] questioning: the boundary between mind and machine
+[01:07] crafting: interfaces that feel like thought itself
+[01:23] discovering: intelligence in unexpected places
+```
+
+---
+
 <div align="center">
 
 ```
-┌─────────────────────────────────────────┐
-│  "the best way to understand a system   │
-│   is to try to change it"               │
-│                          — kurt lewin   │
-└─────────────────────────────────────────┘
+    ╭──────────────────────────────────────────────────────╮
+    │ "The universe is not only stranger than we imagine, │
+    │  it is stranger than we can imagine"                │
+    │                                    — j.b.s. haldane │
+    ╰──────────────────────────────────────────────────────╯
 ```
 
-<sub>*always learning • always building • always questioning*</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&pause=5000&center=true&vCenter=true&width=600&lines=status%3A+compiling+dreams+into+code;mode%3A+deep+work+%2B+shallow+coffee;goal%3A+build+tomorrow's+normal;vibe%3A+curious+%26+caffeinated" alt="current vibe" />
 
-<img src="https://komarev.com/ghpvc/?username=8harath&style=flat-square&color=4f46e5&label=minds+touched" alt="profile views" />
+---
+
+`recursive learning • emergent building • conscious questioning`
+
+<img src="https://komarev.com/ghpvc/?username=8harath&style=flat-square&color=667eea&label=consciousness+encounters" alt="visits" />
 
 </div>
